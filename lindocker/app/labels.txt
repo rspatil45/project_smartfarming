@@ -1,0 +1,4 @@
+tomato_blight
+tomato_healthy
+tomato_septorial_spot
+tomato_yellow_leaf
